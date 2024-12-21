@@ -6,6 +6,7 @@
 ## Download and Install
 ```
 git clone https://github.com/phawitb/bazi-api.git
+
 cd bazi-api
 go mod init bazi-api
 
@@ -30,3 +31,5 @@ BODY ::
     "gender": 1
 }
 ```
+## Reference
+#### https://github.com/tommitoan/bazica
