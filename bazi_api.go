@@ -4,7 +4,8 @@ import (
 	// "encoding/json"
 	"fmt"
 	"github.com/gin-gonic/gin"
-	"github.com/tommitoan/bazica"
+	// "github.com/tommitoan/bazica"
+	"github.com/phawitb/bazi-go"
 	"time"
 )
 
