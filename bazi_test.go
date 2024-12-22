@@ -3,7 +3,8 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/tommitoan/bazica"
+	// "github.com/tommitoan/bazica"
+	"github.com/phawitb/bazi-go"
 	"time"
 )
 
