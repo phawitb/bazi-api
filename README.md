@@ -11,7 +11,8 @@ cd bazi-api
 go mod init bazi-api
 
 go get github.com/gin-gonic/gin
-go get github.com/tommitoan/bazica
+# go get github.com/tommitoan/bazica
+go get github.com/phawitb/bazi-go
 #go mod vendor
 
 # for test
