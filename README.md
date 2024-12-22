@@ -9,6 +9,7 @@ git clone https://github.com/phawitb/bazi-api.git
 
 cd bazi-api
 go mod init bazi-api
+go mod tidy
 
 go get github.com/gin-gonic/gin
 # go get github.com/tommitoan/bazica
