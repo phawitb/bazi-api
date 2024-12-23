@@ -32,6 +32,7 @@ BODY ::
     "timezone": "Asia/Bangkok",
     "gender": 1
 }
+// 0 = female, 1 = male
 ```
 ## Reference
 #### https://github.com/tommitoan/bazica
