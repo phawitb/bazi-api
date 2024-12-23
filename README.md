@@ -13,8 +13,8 @@ go mod tidy
 
 go get github.com/phawitb/bazi-go
 go get github.com/gin-gonic/gin
-# go get github.com/tommitoan/bazica
-# go mod vendor
+// go get github.com/tommitoan/bazica
+// go mod vendor
 
 # for test
 go run bazi_test.go
